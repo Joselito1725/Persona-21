@@ -1,0 +1,256 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "P4_Comedor.tmx",
+    "expandedProjectPaths": [
+        "."
+    ],
+    "fileStates": {
+        "": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "DiseñoNivel1.tsx": {
+            "scaleInDock": 0.9,
+            "scaleInEditor": 1
+        },
+        "P1_Manicomio - copia.tmx": {
+            "scale": 0.41018229166666664,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 961.7675068249636,
+                "y": 641.178337883309
+            }
+        },
+        "P1_Manicomio.tmx": {
+            "expandedObjectLayers": [
+                9
+            ],
+            "scale": 3,
+            "selectedLayer": 5,
+            "viewCenter": {
+                "x": 959.8333333333333,
+                "y": 639.6666666666666
+            }
+        },
+        "P1_manicomio.tmx": {
+            "scale": 0.25,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1076,
+                "y": 956
+            }
+        },
+        "P1_manicomio.tmx#DiseñoNivel1": {
+            "scaleInDock": 0.8,
+            "scaleInEditor": 1
+        },
+        "P2_Consultorio.tmx": {
+            "expandedObjectLayers": [
+                9,
+                4
+            ],
+            "scale": 4,
+            "selectedLayer": 5,
+            "viewCenter": {
+                "x": 169.5,
+                "y": 609.5
+            }
+        },
+        "P2_consultorio.tmx": {
+            "scale": 0.3646614583333333,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 880.2685138898806,
+                "y": 1009.1551810326359
+            }
+        },
+        "P2_consultorio.tmx#DiseñoNivel1": {
+            "scaleInDock": 1
+        },
+        "P3_Central.tmx": {
+            "expandedObjectLayers": [
+                9
+            ],
+            "scale": 0.75,
+            "selectedLayer": 5,
+            "viewCenter": {
+                "x": -2.6666666666666856,
+                "y": 745.3333333333333
+            }
+        },
+        "P4_Comedor.tmx": {
+            "expandedObjectLayers": [
+                9,
+                4
+            ],
+            "scale": 5.5,
+            "selectedLayer": 5,
+            "viewCenter": {
+                "x": 1406.909090909091,
+                "y": 622.3636363636364
+            }
+        },
+        "P5_Laboratorio.tmx": {
+            "expandedObjectLayers": [
+                5,
+                4,
+                6,
+                3
+            ],
+            "scale": 2,
+            "selectedLayer": 4,
+            "viewCenter": {
+                "x": 703.25,
+                "y": 333.5
+            }
+        },
+        "P6_Fabrica.tmx": {
+            "expandedObjectLayers": [
+                9,
+                3,
+                4
+            ],
+            "scale": 8,
+            "selectedLayer": 5,
+            "viewCenter": {
+                "x": 350.875,
+                "y": 451.875
+            }
+        },
+        "P7_Cueva.tmx": {
+            "expandedObjectLayers": [
+                5,
+                3
+            ],
+            "scale": 1.5,
+            "selectedLayer": 4,
+            "viewCenter": {
+                "x": 96.33333333333334,
+                "y": 665.3333333333333
+            }
+        },
+        "central.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "consultorio_central.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "diseños/DiseñoExtras1.tsx": {
+            "scaleInDock": 0.75,
+            "scaleInEditor": 1.5
+        },
+        "diseños/DiseñoNivel1(2).tsx": {
+            "scaleInDock": 0.75,
+            "scaleInEditor": 1
+        },
+        "diseños/DiseñoNivel1.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "diseños/DiseñoNivel2(1).tsx": {
+            "scaleInDock": 0.75,
+            "scaleInEditor": 1.5
+        },
+        "diseños/DiseñoNivel2(2).tsx": {
+            "scaleInDock": 0.5,
+            "scaleInEditor": 1.5
+        },
+        "diseños/DiseñoNivel2_3(1).tsx": {
+            "scaleInDock": 0.5,
+            "scaleInEditor": 1.5
+        },
+        "diseños/DiseñoNivel2_3(2).tsx": {
+            "scaleInDock": 0.5,
+            "scaleInEditor": 1
+        },
+        "diseños/DiseñoNivel4 (2).tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "diseños/DiseñoNivel4 (3).tsx": {
+            "scaleInDock": 0.75,
+            "scaleInEditor": 1
+        },
+        "diseños/DiseñoNivel4 (4).tsx": {
+            "scaleInDock": 0.75,
+            "scaleInEditor": 1
+        },
+        "diseños/DiseñoNivel4 (5).tsx": {
+            "scaleInDock": 0.75,
+            "scaleInEditor": 1
+        },
+        "diseños/DiseñoNivel4.tsx": {
+            "scaleInDock": 0.75,
+            "scaleInEditor": 1
+        },
+        "diseños/DiseñoNivel6(0).tsx": {
+            "scaleInDock": 0.75,
+            "scaleInEditor": 1
+        },
+        "diseños/DiseñoNivel6(1).tsx": {
+            "scaleInDock": 0.75,
+            "scaleInEditor": 1
+        },
+        "diseños/DiseñoNivel6(2).tsx": {
+            "scaleInDock": 0.75,
+            "scaleInEditor": 1
+        },
+        "diseños/DiseñoNivel6(3).tsx": {
+            "scaleInDock": 0.5,
+            "scaleInEditor": 1
+        },
+        "fabrica.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "nivel1Manicomio.tmx": {
+            "scale": 0.0625,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": -592,
+                "y": 576
+            }
+        },
+        "prueba.tmx": {
+            "scale": 1.5,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 524.3333333333333,
+                "y": 466
+            }
+        }
+    },
+    "last.imagePath": "C:/Users/JEREMY/OneDrive/Documentos/CARPETA UNI - COMPARTIR/UNI/Z-PROYECTO_OF/PROYECTO POO/Persona 21/assets/image/mundo/ambientes/diseños",
+    "map.fixedSize": true,
+    "map.height": 40,
+    "map.lastUsedFormat": "tmx",
+    "map.width": 60,
+    "openFiles": [
+        "P1_Manicomio.tmx",
+        "P4_Comedor.tmx",
+        "P3_Central.tmx"
+    ],
+    "project": "ambientaciones.tiled-project",
+    "property.type": "float",
+    "recentFiles": [
+        "P1_Manicomio.tmx",
+        "P3_Central.tmx",
+        "P4_Comedor.tmx",
+        "P6_Fabrica.tmx",
+        "P2_Consultorio.tmx",
+        "P7_Cueva.tmx",
+        "P5_Laboratorio.tmx",
+        "P1_Manicomio - copia.tmx",
+        "prueba.tmx",
+        "diseños/DiseñoNivel1(2).tsx",
+        "diseños/DiseñoNivel1.tsx",
+        "diseños/DiseñoNivel6(3).tsx"
+    ],
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.useTransparentColor": true
+}
