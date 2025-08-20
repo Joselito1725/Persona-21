@@ -1,0 +1,67 @@
+.gitkeep
+image/mundo/ambientes/EJEMPLO.tsx
+image/mundo/ambientes/mapa.tiled-session
+image/mundo/ambientes/mapa.tmx
+image/mundo/personajes/enemigos/Attack.png
+image/mundo/personajes/enemigos/Dead.png
+image/mundo/personajes/enemigos/Hurt.png
+image/mundo/personajes/enemigos/Idle.png
+image/mundo/personajes/enemigos/Walk.png
+image/mundo/personajes/personaje/Attack.png
+image/mundo/personajes/personaje/Dead.png
+image/mundo/personajes/personaje/Hurt.png
+image/mundo/personajes/personaje/Idle.png
+image/mundo/personajes/personaje/Run.png
+image/mundo/personajes/personaje/Walk.png
+image/pantallas/MenuGuardado.png
+image/pantallas/MenuPrincipal.png
+image/pantallas/animaciones/lluvia_frame.png
+image/pantallas/iconos/Levels Menu/1.png
+image/pantallas/iconos/Levels Menu/10.png
+image/pantallas/iconos/Levels Menu/11.png
+image/pantallas/iconos/Levels Menu/12.png
+image/pantallas/iconos/Levels Menu/13.png
+image/pantallas/iconos/Levels Menu/14.png
+image/pantallas/iconos/Levels Menu/15.png
+image/pantallas/iconos/Levels Menu/16.png
+image/pantallas/iconos/Levels Menu/17.png
+image/pantallas/iconos/Levels Menu/18.png
+image/pantallas/iconos/Levels Menu/2.png
+image/pantallas/iconos/Levels Menu/3.png
+image/pantallas/iconos/Levels Menu/4.png
+image/pantallas/iconos/Levels Menu/5.png
+image/pantallas/iconos/Levels Menu/6.png
+image/pantallas/iconos/Levels Menu/7.png
+image/pantallas/iconos/Levels Menu/8.png
+image/pantallas/iconos/Levels Menu/9.png
+image/pantallas/iconos/Levels Menu/Arrow Left.png
+image/pantallas/iconos/Levels Menu/Arrow Right.png
+image/pantallas/iconos/PARA MODIFICAR/BTN VACIO 1.png
+image/pantallas/iconos/PARA MODIFICAR/BTN VACIO 2.png
+image/pantallas/iconos/PARA MODIFICAR/BTN VACIO 3.png
+image/pantallas/iconos/PARA MODIFICAR/CUADRO TEXTO VACIO.png
+image/pantallas/iconos/PARA MODIFICAR/EXTRA1.png
+image/pantallas/iconos/PARA MODIFICAR/EXTRA2.png
+image/pantallas/iconos/PARA MODIFICAR/EXTRA3.png
+image/pantallas/iconos/PARA MODIFICAR/INF VACIO 1.png
+image/pantallas/iconos/PARA MODIFICAR/INF VACIO 2.png
+image/pantallas/iconos/PARA MODIFICAR/INVENTARIO VACIO.png
+image/pantallas/iconos/PARA MODIFICAR/MENSAJES VACIO.png
+image/pantallas/iconos/PARA MODIFICAR/MenuGuardadoExtra.png
+image/pantallas/iconos/PartidaGuardada.png
+image/pantallas/iconos/TituloCargarPartida.png
+image/pantallas/iconos/bannerGuardado.png
+image/pantallas/iconos/bannerInventario.png
+image/pantallas/iconos/bannerMuerte.png
+image/pantallas/iconos/bannerOpciones.png
+image/pantallas/iconos/borde.png
+image/pantallas/iconos/btnOpciones.png
+image/pantallas/iconos/cargarPartida.png
+image/pantallas/iconos/cerrar.png
+image/pantallas/iconos/nuevaPartida.png
+image/pantallas/iconos/regresar.png
+image/pantallas/iconos/salir.png
+image/pantallas/iconos/titulo.png
+sound/pantallas/Botones.wav
+sound/pantallas/menuGuardado.mp3
+sound/pantallas/menuPrincipal.mp3
