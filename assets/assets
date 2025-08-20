@@ -1,0 +1,134 @@
+.gitkeep
+image/Iconos/IMG_2019.png
+image/Iconos/IMG_2020.png
+image/Iconos/IMG_2022.png
+image/mundo/ambientes/P1_Manicomio.tmx
+image/mundo/ambientes/P2_Consultorio.tmx
+image/mundo/ambientes/P3_Central.tmx
+image/mundo/ambientes/P4_Comedor.tmx
+image/mundo/ambientes/P5_Laboratorio.tmx
+image/mundo/ambientes/P6_Fabrica.tmx
+image/mundo/ambientes/P7_Cueva.tmx
+image/mundo/ambientes/ambientaciones.tiled-project
+image/mundo/ambientes/ambientaciones.tiled-session
+image/mundo/ambientes/diseños/Comedor (1).png
+image/mundo/ambientes/diseños/Comedor (2).png.crdownload
+image/mundo/ambientes/diseños/Comedor (3).png
+image/mundo/ambientes/diseños/Comedor (4).png
+image/mundo/ambientes/diseños/Comedor (5).png
+image/mundo/ambientes/diseños/Consultorio1.png
+image/mundo/ambientes/diseños/Consultorio2.png
+image/mundo/ambientes/diseños/DiseñoExtras1.tsx
+image/mundo/ambientes/diseños/DiseñoNivel1(2).tsx
+image/mundo/ambientes/diseños/DiseñoNivel1.tsx
+image/mundo/ambientes/diseños/DiseñoNivel2(1).tsx
+image/mundo/ambientes/diseños/DiseñoNivel2(2).tsx
+image/mundo/ambientes/diseños/DiseñoNivel2_3(1).tsx
+image/mundo/ambientes/diseños/DiseñoNivel2_3(2).tsx
+image/mundo/ambientes/diseños/DiseñoNivel4 (3).tsx
+image/mundo/ambientes/diseños/DiseñoNivel4 (4).tsx
+image/mundo/ambientes/diseños/DiseñoNivel4 (5).tsx
+image/mundo/ambientes/diseños/DiseñoNivel4.tsx
+image/mundo/ambientes/diseños/DiseñoNivel6(0).tsx
+image/mundo/ambientes/diseños/DiseñoNivel6(1).tsx
+image/mundo/ambientes/diseños/DiseñoNivel6(2).tsx
+image/mundo/ambientes/diseños/DiseñoNivel6(3).tsx
+image/mundo/ambientes/diseños/Extras1.png
+image/mundo/ambientes/diseños/Fabrica0.png
+image/mundo/ambientes/diseños/Fabrica1.png
+image/mundo/ambientes/diseños/Fabrica2.png
+image/mundo/ambientes/diseños/Fabrica3.png
+image/mundo/ambientes/diseños/Manicomio.png
+image/mundo/ambientes/diseños/Manicomio2.png
+image/mundo/ambientes/diseños/consultorio_central1.png
+image/mundo/ambientes/diseños/consultorio_central2.png
+image/mundo/interfaces/HUD/BtnAtaque.png
+image/mundo/interfaces/HUD/BtnInventario.png
+image/mundo/interfaces/HUD/BtnOpciones.png
+image/mundo/interfaces/HUD/BtnRecoger.png
+image/mundo/interfaces/HUD/ProvBanner.png
+image/mundo/interfaces/gameOver/banner_muerte2.png
+image/mundo/interfaces/inventario/HojaInfo.png
+image/mundo/interfaces/inventario/inventory_book.png
+image/mundo/interfaces/slot/botiquin.png
+image/mundo/interfaces/slot/slotTarjeta.png
+image/mundo/interfaces/slot/slotVacio.png
+image/mundo/interfaces/slot/slotVacioSelect.png
+image/mundo/interfaces/slot/tarjetaLlave.png
+image/mundo/personajes/enemigos/Attack.png
+image/mundo/personajes/enemigos/Dead.png
+image/mundo/personajes/enemigos/Hurt.png
+image/mundo/personajes/enemigos/Idle.png
+image/mundo/personajes/enemigos/Walk.png
+image/mundo/personajes/personaje/Attack.png
+image/mundo/personajes/personaje/Dead.png
+image/mundo/personajes/personaje/Hurt.png
+image/mundo/personajes/personaje/Idle.png
+image/mundo/personajes/personaje/Run.png
+image/mundo/personajes/personaje/Walk.png
+image/pantallas/MenuGuardado.png
+image/pantallas/MenuPrincipal.png
+image/pantallas/animaciones/lluvia_frame.png
+image/pantallas/iconos/Levels Menu/1.png
+image/pantallas/iconos/Levels Menu/10.png
+image/pantallas/iconos/Levels Menu/11.png
+image/pantallas/iconos/Levels Menu/12.png
+image/pantallas/iconos/Levels Menu/13.png
+image/pantallas/iconos/Levels Menu/14.png
+image/pantallas/iconos/Levels Menu/15.png
+image/pantallas/iconos/Levels Menu/16.png
+image/pantallas/iconos/Levels Menu/17.png
+image/pantallas/iconos/Levels Menu/18.png
+image/pantallas/iconos/Levels Menu/2.png
+image/pantallas/iconos/Levels Menu/3.png
+image/pantallas/iconos/Levels Menu/4.png
+image/pantallas/iconos/Levels Menu/5.png
+image/pantallas/iconos/Levels Menu/6.png
+image/pantallas/iconos/Levels Menu/7.png
+image/pantallas/iconos/Levels Menu/8.png
+image/pantallas/iconos/Levels Menu/9.png
+image/pantallas/iconos/Levels Menu/Arrow Left.png
+image/pantallas/iconos/Levels Menu/Arrow Right.png
+image/pantallas/iconos/PARA MODIFICAR/BTN VACIO 1.png
+image/pantallas/iconos/PARA MODIFICAR/BTN VACIO 2.png
+image/pantallas/iconos/PARA MODIFICAR/BTN VACIO 3.png
+image/pantallas/iconos/PARA MODIFICAR/CUADRO TEXTO VACIO.png
+image/pantallas/iconos/PARA MODIFICAR/EXTRA1.png
+image/pantallas/iconos/PARA MODIFICAR/EXTRA2.png
+image/pantallas/iconos/PARA MODIFICAR/EXTRA3.png
+image/pantallas/iconos/PARA MODIFICAR/INF VACIO 1.png
+image/pantallas/iconos/PARA MODIFICAR/INF VACIO 2.png
+image/pantallas/iconos/PARA MODIFICAR/INVENTARIO VACIO.png
+image/pantallas/iconos/PARA MODIFICAR/MENSAJES VACIO.png
+image/pantallas/iconos/PARA MODIFICAR/MenuGuardadoExtra.png
+image/pantallas/iconos/PartidaGuardada.png
+image/pantallas/iconos/TituloCargarPartida.png
+image/pantallas/iconos/bannerGuardado.png
+image/pantallas/iconos/bannerInventario.png
+image/pantallas/iconos/bannerMuerte.png
+image/pantallas/iconos/bannerOpciones.png
+image/pantallas/iconos/banner_muerte2.png
+image/pantallas/iconos/borde.png
+image/pantallas/iconos/cargarPartida.png
+image/pantallas/iconos/cerrar.png
+image/pantallas/iconos/nuevaPartida.png
+image/pantallas/iconos/personajehabla.png
+image/pantallas/iconos/regresar.png
+image/pantallas/iconos/salir.png
+image/pantallas/iconos/titulo.png
+sound/Sonido/AUDIO-2025-07-03-22-38-44.mp3
+sound/Sonido/AUDIO-2025-07-03-22-39-55.mp3
+sound/Sonido/AUDIO-2025-07-03-22-43-27.mp3
+sound/Sonido/AUDIO-2025-07-03-22-44-18.mp3
+sound/Sonido/AUDIO-2025-07-03-22-45-54.mp3
+sound/Sonido/AUDIO-2025-07-03-22-46-43.mp3
+sound/Sonido/AUDIO-2025-07-03-23-01-25.mp3
+sound/Sonido/AUDIO-2025-07-04-10-14-46 2.mp3
+sound/Sonido/AUDIO-2025-07-04-10-14-46 3.mp3
+sound/Sonido/AUDIO-2025-07-04-10-14-46.mp3
+sound/Sonido/MUSICA EXTRA.mp3
+sound/pantallas/Botones.wav
+sound/pantallas/menuGuardado.mp3
+sound/pantallas/menuPrincipal.mp3
+sound/pantallas/musicaMuerte.mp3
+text/BRADHITC.TTF
